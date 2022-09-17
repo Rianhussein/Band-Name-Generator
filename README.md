@@ -1,2 +1,2 @@
 # Band-Name-Generator
-simple python Name generator
+simple python script that generates Names.
